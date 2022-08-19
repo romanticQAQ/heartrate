@@ -5,6 +5,7 @@ Please follow the instructions to run the code.<br>
 This project is based on Matlab205
 ## Dataset
 Datasrt Link:
+Download it and move it to vidoes folfer
 ## Experiment
 1. test_other_way_emd.m视频转ROI3通道数据
 2. get_true_from_csv.m计算心率参考值，show_result_gt.m将本文方法与参考值比较，并保存结果
